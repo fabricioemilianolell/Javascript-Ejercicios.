@@ -1,7 +1,7 @@
 # Javascript-Ejercicios.
 Ejercicios - Lógica de programación - Curso Jon Mircha Javascript
 
-Mi resolución en el repositorio para los 27 ejercicios del curso.
+Mi resolución en el repositorio para los 27 ejercicios y en mi codePen https://codepen.io/fabricio-lell/pen/rNdZpLY 
 
 1) Programa una función que cuente el número de caracteres de una cadena de texto, pe. miFuncion("Hola Mundo") devolverá 10.
 2) Programa una función que te devuelva el texto recortado según el número de caracteres indicados, pe. miFuncion("Hola Mundo", 4) devolverá "Hola".
